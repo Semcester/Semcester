@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A passionate frontend developer & designer from Istanbul</h3>
+<h3 align="center">A passionate Frontend developer & Designer from Istanbul</h3>
 
 - 🔭 I’m currently working for **Huawei**
 
