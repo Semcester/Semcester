@@ -3,7 +3,6 @@
 
 <p align="center">🔭 I’m currently working for Huawei</p> 
 
- <p align="center">👯 Currently working on Petal Clip Project</p>
 
 <p align="center">📫 How to reach me senansemih@gmail.com</p>
 
